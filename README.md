@@ -1,6 +1,3 @@
-# Introduction
-
-
 <!--电脑端-->
 <H2>PC Software Tools Medals</H2>
 
